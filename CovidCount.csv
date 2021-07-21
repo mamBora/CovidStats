@@ -1,2 +1,4 @@
-﻿Country,CovidCount
-India,500
+﻿Country,PreviousDayCount,CurrentCovidCount
+India,500,600
+US,1000,2000
+UK,600,756
